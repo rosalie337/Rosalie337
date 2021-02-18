@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <img align="left" height="230px" src="https://github-readme-stats.vercel.app/api?username=rosalie337&show_icons=true&hide_title=true&hide_border=true&theme=dark" /><img align="right" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosalie337&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=dark" />
+ <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api?username=rosalie337&show_icons=true&hide_title=true&hide_border=true&theme=dark" /><img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosalie337&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=dark" />
 <!--
 **rosalie337/Rosalie337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
