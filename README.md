@@ -1,4 +1,16 @@
-### Hi there 👋
+<div align="center">
+  <h1>
+    Welcome to my GitHub!
+  </h1>
+  <p>
+    <a href="https://www.linkedin.com/in/rosalie337/" target="_blank">
+      <img src=https://img.shields.io/badge/LinkedIn-0072B1?logo=linkedin&labelColor=blue />
+    </a>
+  </p>
+</div>
+
+
+### Hi there 👋 I am currently finishing my software development certificate.
 
 
 <div align="center">
