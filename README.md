@@ -3,7 +3,7 @@
     Welcome to my GitHub!
   </h1>
   <p>
-    <a href="https://www.linkedin.com/in/rosalie337/" target="_blank">
+    <a href="https://www.linkedin.com/in/rosalielee/" target="_blank">
       <img src=https://img.shields.io/badge/LinkedIn-0072B1?logo=linkedin&labelColor=blue />
     </a>
   </p>
