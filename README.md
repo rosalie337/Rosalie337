@@ -8,9 +8,9 @@
     </a>
   </p>
 
-### Hi there 👋🏾 My name is Rosalie and I am a Software Engineer. 
-###### I come from a non-traditional coding background and have a lot to offer prospective employers and the inters-of-nets!
-###### 🌱 I’m currently reacclimating to React by learning react-redux and custom hooks. 
+### Hi there 👋🏾 My name is Rosalie, and I am a scientist.  
+###### I come from a non-traditional coding background and have much to offer prospective employers.
+###### 🌱 I’m currently focusing on learning Python for AI/ML.
 </div>
 
 <div align="center">
