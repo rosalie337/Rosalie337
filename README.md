@@ -10,7 +10,7 @@
 
 ### Hi there 👋🏾 My name is Rosalie, and I am a research professional and behavior scientist.  
 ###### I come from a non-traditional coding background and have much to offer prospective employers.
-###### 🌱 I’m currently focusing on learning Python for Healthcare Innovation.
+###### 🌱 I’m currently focusing on learning Python.
 </div>
 
 <div align="center">
